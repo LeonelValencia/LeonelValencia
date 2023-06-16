@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeonelValencia
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning JavaScript, mongodb and neo4j
-- 💞️ I’m looking to collaborate on frontend and backend
-- 📫 How to reach me at Facebook: Leonel Valencia, Instagram: LeoVale_Dev 
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning JavaScript, ReactJS, Python
+- 💞️ I’m looking to collaborate on frontend and backend, data science
+- 📫 How to reach me at [Facebook](https://www.facebook.com/leonel.valencia.3382/), [Linkedin](https://www.linkedin.com/in/leonel-valencia-estudillo-51a553153/)
 
 <!---
 LeonelValencia/LeonelValencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
