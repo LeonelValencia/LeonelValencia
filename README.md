@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @LeonelValencia
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning JavaScript, ReactJS, Python
-- 💞️ I’m looking to collaborate on frontend and backend, data science
-- 📫 How to reach me at [Facebook](https://www.facebook.com/leonel.valencia.3382/), [Linkedin](https://www.linkedin.com/in/leonel-valencia-estudillo-51a553153/)
+### Hi there! 👋  
 
+I'm **Leonel Valencia**, a Data Engineer and Python Developer passionate about building efficient data pipelines, optimizing databases, and creating AI-powered applications.  
+
+- 👀 I’m interested in **Data Engineering, Python Development, and AI applications.**  
+- 🌱 I’m currently **expanding my skills in cloud data platforms and big data processing.**  
+- 💞️ I’m looking to **collaborate on projects related to data processing, ETL pipelines, and backend development.**  
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/valencialeonel)**  
+
+🚀 Check out my projects and let's connect!  
 <!---
 LeonelValencia/LeonelValencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
